@@ -1,4 +1,4 @@
-# Fake Bank App Detector
+# MalTracker
 
 A cybersecurity-focused project designed to detect potentially malicious or fake banking applications using static and behavioral analysis techniques.
 
